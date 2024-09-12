@@ -1,0 +1,24 @@
+*{
+    background:#A5E0DD;
+}
+.main {
+    width: 600px;
+    padding: 10px;
+    background-color: white;
+    font-family: "Montserrat", sans-serif;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.haha {
+    display: flex;
+}
+.hihi {
+    padding: 0px 10px 0px 10px;
+}
+.hoho {
+    display: flex;
+    text-align: center;
+}
+.mama {
+    background-color: white;
+}
